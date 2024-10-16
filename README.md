@@ -1,4 +1,4 @@
-# MSc-Project-Swing-Tracker
+Swing Tracker
 Swing Tracker is a tool to analyse the pose and swinging path of tennis players and compare the difference between professional players and amateur players using pose estimation from computer vision. Tennis player poses are analysed by the computer vision model and determine their swinging path during serve motion. 
 
 This is my MSc project (Swing Tracker: A Human Pose Estimation and Analysis tool for Tennis Serve Training Assistance) in University of Greenwich supervised by Dr Konstantin Kapinchev.
